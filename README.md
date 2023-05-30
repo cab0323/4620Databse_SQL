@@ -1,2 +1,3 @@
-# ancient-history-room
-This is the ancient history room. Part of the museum created as a team in cpsc 4110.
+# 4620Database_SQL
+
+This is the the database in pure SQL.
